@@ -2,4 +2,4 @@
 discord self bot source
 
 
-credit by: <a href="#">HADI Az</a>https://github.com/hadiazt</span>
+credit by: <a href="https://github.com/hadiazt">HADI Az</a></span>
